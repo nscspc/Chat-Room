@@ -1,0 +1,15 @@
+{
+  "name": "nodejscwhchat",
+  "version": "1.0.0",
+  "description": "this is a node server for our chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
